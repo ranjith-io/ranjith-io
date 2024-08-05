@@ -11,6 +11,9 @@
     <p>🎓Currently a Student at Bannari Amman Institute of Technology</p>
     <p>🧠Passionate about learing web development</p>
     <p>👯 Looking to collaborate on Full Stack Projects </p>
-    <p>💬Ask me about Robot Operating system</p>
+    <p>💬Ask me about Robot Operating system </p>
+    <img href="https.//github.com/ranjith-io""https://github-readme-streak-stats.herokuapp.com?user=ranjith-io&theme=gruvbox&border_radius=10&card_width=500" alt="GitHub Streak" src="">
 
-    <a href="https://github.com/ranjith-io"><img src="https://github-readme-streak-stats.herokuapp.com?user=ranjith-io&theme=gruvbox&border_radius=10&card_width=500" alt="GitHub Streak" />
+    
+
+</div>
