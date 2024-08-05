@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# ranjith-io-
-=======
+
 
 
 <h1 style="margin: 20px;">
@@ -16,4 +14,3 @@
     <p>💬Ask me about Robot Operating system</p>
 
     <a href="https://github.com/ranjith-io"><img src="https://github-readme-streak-stats.herokuapp.com?user=ranjith-io&theme=gruvbox&border_radius=10&card_width=500" alt="GitHub Streak" />
->>>>>>> 20528dc (Modified with Streak status)
