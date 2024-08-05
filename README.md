@@ -1,9 +1,7 @@
 
 
 
-<h1 style="margin: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=merriweather&weight=900&duration=5000&color=7FFFF3&center=true&lines=Heyy!++++I+am+Ranjith....">
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=merriweather&weight=900&pause=1000&width=435&lines=Heyy!++++I+am+Ranjith...." alt="Typing SVG" /></a>
 
 <h2>A passionate Web developer exploring the web</h2>
 
