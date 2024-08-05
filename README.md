@@ -17,7 +17,7 @@
     <h4>Tools</h4> 
     <img src="https://skillicons.dev/icons?i=linux,stackoverflow,git,vscode">
     <br> </br>
-    <a href="https.//github.com/ranjith-io"><img src="https://github-readme-streak-stats.herokuapp.com?user=ranjith-io&theme=gruvbox&border_radius=10&card_width=500">
+    <a href="https://github.com/ranjith-io"><img src="https://github-readme-streak-stats.herokuapp.com?user=ranjith-io&theme=gruvbox&border_radius=10&card_width=500">
 
     
 
