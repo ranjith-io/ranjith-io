@@ -3,7 +3,7 @@
 
 <div align=center>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=merriweather&weight=900&pause=1000&width=435&lines=Heyy!++++I+am+Ranjith...." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=merriweather&weight=900&pause=1000&width=435&lines=Heyy!++++I+am+Ranjith...." alt="Typing SVG" />
 
 <h2 align=left>A passionate Web developer exploring the web...</h2>
 
