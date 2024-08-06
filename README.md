@@ -1,5 +1,5 @@
 
-<img style="border-radius:5px" align=right src="https://komarev.com/ghpvc/?username=ranjith-io&label=Visitors&style=flat-square&color=blue">
+<img  align=right src="https://komarev.com/ghpvc/?username=ranjith-io&label=Visitors&style=flat-square&color=blue">
 
 <div align=center>
 
@@ -15,11 +15,11 @@
     <p>👯 Looking to collaborate on Full Stack Projects </p>
     <p>💬 Ask me about Robot Operating system </p>
     <hr>
-    <h4 style="color:green">Programming languages</h4>
+    <h4>Programming languages</h4>
     <img src="https://skillicons.dev/icons?i=python,c,cpp,js">
-    <h4 style="color:aqua">Full Stack</h4>
+    <h4>Full Stack</h4>
     <img src="https://skillicons.dev/icons?i=mongodb,nodejs,expressjs,react,html,css">
-    <h4 style="color:pink">Tools</h4> 
+    <h4>Tools</h4> 
     <img src="https://skillicons.dev/icons?i=linux,stackoverflow,git,vscode">
     <br> </br>
     <br>
@@ -28,8 +28,6 @@
     <h3>Reach me </h3>
     <a href="mailto:ranjithravi3379@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
     <a href="https://www.linkedin.com/in/ranjith-arjunan-b45889285/"><img  src="https://skillicons.dev/icons?i=linkedin"></a>
-
-    
 
 </div>
 </div>
