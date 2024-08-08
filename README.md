@@ -18,7 +18,7 @@
     <h4>Programming languages</h4>
     <img src="https://skillicons.dev/icons?i=python,c,cpp,js">
     <h4>Full Stack</h4>
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,expressjs,react,html,css">
+    <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,html,css">
     <h4>Tools</h4> 
     <img src="https://skillicons.dev/icons?i=linux,stackoverflow,git,vscode">
     <br> </br>
