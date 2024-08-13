@@ -25,6 +25,7 @@
     <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=expressjs"></a>
     <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react"></a>
     <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs"></a>
+    <br>
     <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css"></a>
     <h4>Tools</h4> 
