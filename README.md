@@ -3,24 +3,24 @@
 
 <div align=center>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=merriweather&weight=900&pause=1000&width=435&lines=Heyy!++++I+am+Ranjith...." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=merriweather&weight=900&pause=1000&width=435&lines=Heyy!++++I+am+Ranjith...." alt="Hi! I am Ranjith..." />
 
 <br>
 
 <h2 align=left>A passionate Web developer exploring the web...</h2>
 
 <div align=left>
-    <p>🎓 Currently a Student at Bannari Amman Institute of Technology</p>
-    <p>🧠 Passionate about learing web development</p>
-    <p>👯 Looking to collaborate on Full Stack Projects </p>
-    <p>💬 Ask me about Robot Operating system </p>
+    <p>🎓 Currently a Student at Bannari Amman Institute of Technology.</p>
+    <p>🧠 Passionate about learing Cloud Computing .</p>
+    <p>👯 Looking to collaborate on Full Stack Projects. </p>
+    <p>💬 Ask me about Robot Operating system .</p>
     <hr>
     <h4>Programming languages</h4>
     <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python"></a>
     <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c"></a>
     <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp"></a>
     <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js"></a>
-    <h4>Full Stack</h4>
+    <h4>Web development</h4>
     <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb"></a>
     <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=expressjs"></a>
     <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react"></a>
