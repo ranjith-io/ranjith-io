@@ -16,11 +16,22 @@
     <p>💬 Ask me about Robot Operating system </p>
     <hr>
     <h4>Programming languages</h4>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js">
+    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python"></a>
+    <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c"></a>
+    <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp"></a>
+    <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js"></a>
     <h4>Full Stack</h4>
-    <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,html,css">
+    <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb"></a>
+    <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=expressjs"></a>
+    <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react"></a>
+    <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs"></a>
+    <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html"></a>
+    <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css"></a>
     <h4>Tools</h4> 
-    <img src="https://skillicons.dev/icons?i=linux,stackoverflow,git,vscode">
+    <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
+    <a href="https://www.linux.org/pages/download/"><img src="https://skillicons.dev/icons?i=linux"></a>
+    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"></a>
+    <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode"></a>
     <br> </br>
     <br>
     <a href="https://github.com/ranjith-io?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=ranjith-io&theme=gruvbox&border_radius=10&card_width=500"></a>
