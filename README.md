@@ -11,7 +11,7 @@
 
 <div align=left>
     <p>🎓 Currently a Student at Bannari Amman Institute of Technology.</p>
-    <p>🧠 Passionate about learing Cloud Computing .</p>
+    <p>🧠 Passionate to learn Cloud Computing .</p>
     <p>👯 Looking to collaborate on Full Stack Projects. </p>
     <p>💬 Ask me about Robot Operating system .</p>
     <hr>
