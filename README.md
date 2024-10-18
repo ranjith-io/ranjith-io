@@ -28,11 +28,15 @@
     <br>
     <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css"></a>
+    <h4>Actively Learning...</h4>
+    <a href="https://awseducate.instructure.com/"><img src="https://skillicons.dev/icons?i=aws"></a>
+    <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go"></a>
     <h4>Tools</h4> 
     <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
     <a href="https://www.linux.org/pages/download/"><img src="https://skillicons.dev/icons?i=linux"></a>
     <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode"></a>
+    <a href="http://wiki.ros.org/Documentation"><img src="https://skillicons.dev/icons?i=ros"></a>
     <br> </br>
     <br>
     <a href="https://github.com/ranjith-io?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=ranjith-io&theme=gruvbox&border_radius=10&card_width=500"></a>
